@@ -20,13 +20,3 @@ The program will merge the PDFs into:
 text
 merged-pdf.pdf
 
-📋 Example
-Hi, Welcome to pdf merger
-Do you want to continue?(y/n) y
-How many PDF's do you want to merge? 2
-Enter the name of the 1 PDF file first.pdf
-Enter the name of the 2 PDF file second.pdf
-
-Output:
-merged-pdf.pdf
-
