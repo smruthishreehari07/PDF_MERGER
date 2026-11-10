@@ -27,8 +27,6 @@ How many PDF's do you want to merge? 2
 Enter the name of the 1 PDF file first.pdf
 Enter the name of the 2 PDF file second.pdf
 
-
 Output:
-text
 merged-pdf.pdf
 
