@@ -10,8 +10,8 @@ A simple Python-based PDF Merger that allows users to combine multiple PDF files
 -Simple and lightweight Python script.
 
 🛠️ Technologies Used
-Python
-PyPDF2
+-Python
+-PyPDF2
 
 Enter y to continue.
 Enter the number of PDF files you want to merge.
